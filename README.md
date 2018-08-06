@@ -1,4 +1,6 @@
 # RabbitMQ Management Plugin
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Frabbitmq-management.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Frabbitmq-management?ref=badge_shield)
+
 
 This plugin provides a management UI and HTTP API for RabbitMQ.
 
@@ -15,3 +17,7 @@ it, use [rabbitmq-plugins](http://www.rabbitmq.com/man/rabbitmq-plugins.1.man.ht
 ## Copyright
 
 (c) Pivotal Software Inc., 2007-2017.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Frabbitmq-management.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Frabbitmq-management?ref=badge_large)
